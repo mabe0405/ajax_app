@@ -27,5 +27,4 @@ function check() {
 	 });
 }
 
-// window.addEventListener("load", check);
-setInterval(check, 10000);
+setInterval(check, 1000);
